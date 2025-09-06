@@ -6,7 +6,7 @@ float c;
 printf("Enter the two Numbers");
 scanf("%d%d",&a,&b);
 c=a/b;
-printf("%d/%d=%f",a,b,c);
-//a=9/5.0;
-//printf("%.2f",a);
+printf("%d/%d=%.2f",a,b,c);
+
 }
+
